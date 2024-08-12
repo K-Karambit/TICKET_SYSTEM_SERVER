@@ -2,7 +2,7 @@
 
 const DB_HOST = 'localhost';
 const DB_USERNAME = 'root';
-const DB_PASSWORD = 'HulaanM0SIGE';
+const DB_PASSWORD = 'SECRET';
 const DB_DATABASE = 'new_ticket_system_db';
 
 class ConfigClass
